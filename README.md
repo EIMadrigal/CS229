@@ -1,1 +1,2 @@
-# ML_Coursera
+# Machine Learning @COURSERA
+This repository includes some programming assignment answer. 
